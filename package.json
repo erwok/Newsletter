@@ -1,0 +1,24 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "Udemy Newsletter web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwok/Newsletter.git"
+  },
+  "author": "Eric Hsiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwok/Newsletter/issues"
+  },
+  "homepage": "https://github.com/erwok/Newsletter#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
